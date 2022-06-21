@@ -4,7 +4,8 @@
       "web": true,
       "requireCleanWorkingDir": false,
       "tokenRef": "GITHUB_TOKEN",
-      "autoGenerate": true
+      "autoGenerate": true,
+      "preRelease": true
     },
     "hooks": {
       "after:bump": "npx auto-changelog -p"
