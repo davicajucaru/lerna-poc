@@ -21,13 +21,6 @@
   },
   "main": "index.js",
   "license": "MIT",
-  "changelog": {
-    "labels": {
-      "Type: Feature": "Features",
-      "Type: Bug": "Bug fixes",
-      "Type: Enhancement": "Enhancements"
-    }
-  },
   "dependencies": {
     "lerna-changelog": "^2.2.0",
     "@csmith/release-it-calver-plugin": "^2022.5.13"
