@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "lerna-changelog": "^2.2.0",
-    "release-it-lerna-changelog": "^4.0.1"
+    "@csmith/release-it-calver-plugin": "^2022.5.13"
   },
   "repository": {
     "url": "https://github.com/davicajucaru/lerna-poc"
