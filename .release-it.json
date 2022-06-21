@@ -7,7 +7,7 @@
       "autoGenerate": true
     },
     "hooks": {
-      "after:bump": "npx auto-changelog-p"
+      "after:bump": "npx auto-changelog -p"
     },
     "git": {
       "requireUpstream": false,
