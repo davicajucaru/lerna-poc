@@ -29,7 +29,8 @@
     }
   },
   "dependencies": {
-    "lerna-changelog": "^2.2.0"
+    "lerna-changelog": "^2.2.0",
+    "release-it-lerna-changelog": "^4.0.1"
   },
   "repository": {
     "url": "https://github.com/davicajucaru/lerna-poc"
