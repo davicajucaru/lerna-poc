@@ -2,7 +2,9 @@
     "github": {
       "release": true,
       "web": true,
-      "requireCleanWorkingDir": false
+      "requireCleanWorkingDir": false,
+      "tokenRef": "GITHUB_TOKEN",
+      "autoGenerate": true
     },
     "hooks": {
       "after:bump": "npx lerna-changelog -p"
