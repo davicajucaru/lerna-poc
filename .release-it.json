@@ -16,7 +16,7 @@
     },
     "plugins": {
       "@csmith/release-it-calver-plugin": {
-        "format": "2022.06.minor",
+        "format": "minor",
         "increment": "calendar"
       }
     }
