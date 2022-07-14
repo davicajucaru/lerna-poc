@@ -1,7 +1,7 @@
 {
   "name": "gatest",
   "private": true,
-  "version": "2022.7.0",
+  "version": "2022.7.1",
   "workspaces": [
     "packages/*"
   ],
