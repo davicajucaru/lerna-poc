@@ -16,7 +16,7 @@
     },
     "plugins": {
       "@csmith/release-it-calver-plugin": {
-        "format": "yyyy.mm.minor.modifier",
+        "format": "yyyy.mm.minor.dev",
         "increment": "minor"
       }
     }
