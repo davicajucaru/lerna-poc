@@ -1,7 +1,7 @@
 {
   "name": "@gatest/test",
   "private": true,
-  "version": "0.0.2-0",
+  "version": "22.9.0-dev.1",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
