@@ -1,12 +1,13 @@
 {
   "name": "@gatest/test",
   "private": true,
-  "version": "22.9.0-dev.2",
+  "version": "22.9.0-dev.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "test": "jest"
+    "test": "jest",
+    "release-dev": "yarn version --prerelease"
   },
   "dependencies": {
     "@testing-library/react": "^13.2.0",
